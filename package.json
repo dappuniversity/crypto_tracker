@@ -2,7 +2,7 @@
   "name": "crypto_tracker",
   "version": "0.1.0",
   "description": "Cryptocurrency Tracker",
-  "author": "majewski.post@gmail.com",
+  "author": "xternet",
   "homepage": ".",
   "dependencies": {
     "axios": "^0.20.0",
