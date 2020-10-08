@@ -3,10 +3,10 @@
 "React app with cryptocurrency API data."
 ```
 
-![Video URL] :clapper:
+![Video URL](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
 ```
 Tutorial video URL (comming)
 ```
 
 ## 🔧 Project Diagram/Workflow:
-![Project Diagram/Workflow](https://i.gyazo.com/6f21721a2215426b9d582e856c2d498c.png)
+![Project Diagram/Workflow](https://i.gyazo.com/e30777d517765b644d4cf9758b0db55c.png)
